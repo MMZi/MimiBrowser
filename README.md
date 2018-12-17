@@ -1,2 +1,0 @@
-# cvplayer
-colorful video player
